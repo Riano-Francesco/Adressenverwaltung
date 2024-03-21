@@ -45,7 +45,7 @@ void Database::choosefile() {
 	else {
 		ofstream file(filename);
 	}
-	ggg
+	
 }
 
 void Database::toGet() {
